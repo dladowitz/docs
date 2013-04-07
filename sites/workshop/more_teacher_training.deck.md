@@ -5,24 +5,25 @@ Let's make tech more diverse and more welcoming!
 
 ### How?
 * Workshops
-* Bug Mashes
 * Mentorship
 
 # Introductions
 ### Who are you?
 * Name
 * What do you do for a living? Care to share who you work for?
-* What's your favorite structure in the Bay Area?
+* If you where and animal what would you be?
+
+![Animal](img/power-animal.jpg)
 
 # How to make your class awesome
 Three buckets, lots of ways:
 ### Help people feel:
 * socially comfortable
 * technically capable
-* make it feel like you know what's going on -- you're the leader. 
+* make it feel like you know what's going on -- you're the leader.
 
 # DISCUSSION (Social Comfort)
-## How can you help people feel	 socially comfortable? 
+## How can you help people feel	 socially comfortable?
 
 # OUR IDEAS (Socially Comfortable 1)
 ### Helping people feel socially comfortable:
@@ -38,10 +39,10 @@ Three buckets, lots of ways:
 
 # OUR IDEAS (Socially Comfortable 2)
 ### Try to suppress your (understandable) culturally-influenced sexism
-* Don't hit on people. No sexual advances. None. 
+* Don't hit on people. No sexual advances. None.
 * Don't make sexist jokes. Or racist, classist, or ableist jokes while you're at it. Call people out if they do.
 * Don't make gender-based generalizations ("Women are better at this task X, because ...")
-* Don't make references to womens' bodies or state your opinion of them. Women are more than how physically attractive they are.  
+* Don't make references to womens' bodies or state your opinion of them. Women are more than how physically attractive they are.
 * Don't treat women as delicate flowers, do treat them like normal people.
 * Don't use slurs (bitch is a slur, btw).
 
@@ -51,8 +52,8 @@ Three buckets, lots of ways:
 # OUR IDEAS (Technically Capable 1)
 ### Set the tone:
 * Explain up front that even professional developers are constantly learning new technologies.
-* Assure them that they will write crappy code, and that's ok. Everyone professional has written crappy code at some point. 
-* Explain that mistakes are how we learn, and most mistakes seem silly in retrospect.  
+* Assure them that they will write crappy code, and that's ok. Everyone professional has written crappy code at some point.
+* Explain that mistakes are how we learn, and most mistakes seem silly in retrospect.
 * Before class, ask your TAs to ask questions if concepts don't seem clear.
 
 ### Explaining technical concepts:
@@ -62,11 +63,11 @@ Three buckets, lots of ways:
 
 # OUR IDEAS (Technically Capable 2)
 ### Encourage collaboration and interaction
-* Explicitly say that students should try to answer each other's questions, that it's a really great way to reinforce learning and builds community. 
+* Explicitly say that students should try to answer each other's questions, that it's a really great way to reinforce learning and builds community.
 * If a question is asked, ask if anyone in the class thinks they can explain.
-* Be especially encouraging of the first few questions, to try to get things rolling. 
+* Be especially encouraging of the first few questions, to try to get things rolling.
   * You could say things like "I'm glad you asked!" or "I actually wondered that, too." or "Great question!"
-* Hand someone the whiteboard marker if it exists. 
+* Hand someone the whiteboard marker if it exists.
 
 ### Don't talk down or be negative
 * Students have diverse backgrounds
@@ -77,9 +78,9 @@ Three buckets, lots of ways:
 # OUR IDEAS (Technically Capable 3)
 ### Don't go too deep for your class level, but also, don't gloss over things
 * Basically: walk the middle path
-* When you're trying to be accurate, it's easy to go down a rabbit hole of specificity. Avoid. 
+* When you're trying to be accurate, it's easy to go down a rabbit hole of specificity. Avoid.
 * Talk to your TAs about avoiding that, and how you can hold each other accountable.
-* Explain the big picture of a command *before* they type it in. 
+* Explain the big picture of a command *before* they type it in.
   * So before typing the command to deploy to Heroku, explain the difference between localhost and Heroku.
 
 # DISCUSSION (DO YOU KNOW WHAT'S GOING ON?)
@@ -97,7 +98,7 @@ Three buckets, lots of ways:
   * Planned breaks, lunch time
   * Remind students that there is a closing presentation at the end
   * Tell them where the bathroom is
-  * Tell them where the after-party is	 
+  * Tell them where the after-party is
 
 # OUR IDEAS (KNOW WHAT'S UP 2)
 ### Establish ground rules
@@ -106,20 +107,20 @@ Three buckets, lots of ways:
 * If anyone wants to switch classes, tell them they should feel TOTALLY COMFORTABLE switching at any point.
 
 ### Don't be afraid to:
-* Call on people! 
-* Correct people if they're wrong--politely and gently in a way that works for you. 
+* Call on people!
+* Correct people if they're wrong--politely and gently in a way that works for you.
   * Examples: "Well, this might work better and this is why." "Can you explain how you came to that conclusion?" "Does anyone have a different answer?"
-* Answer questions that haven't been asked yet. 
+* Answer questions that haven't been asked yet.
 
 # OUR IDEAS (KNOW WHAT'S UP 3)
 ### Try to have good pacing
-* Don't go too fast. You will probably go too fast. Check in occasionally to ensure everyone is still with you. 
-* You can say the same thing THREE TIMES and it will not be boring yet. 
-* When you ask a question, wait TEN WHOLE SECONDS before saying anything else. People need time to think. 
-* Don't let the most advanced students dictate the pacing or answer all the questions. 
+* Don't go too fast. You will probably go too fast. Check in occasionally to ensure everyone is still with you.
+* You can say the same thing THREE TIMES and it will not be boring yet.
+* When you ask a question, wait TEN WHOLE SECONDS before saying anything else. People need time to think.
+* Don't let the most advanced students dictate the pacing or answer all the questions.
 
 # DISCUSSION
-Talk about what problems you might anticipate, and what to do about them. 
+Talk about what problems you might anticipate, and what to do about them.
 
 # OUR IDEAS
 ### Some issues:
@@ -132,13 +133,13 @@ Talk about what problems you might anticipate, and what to do about them.
 TAs: What are they good for? Absolutely everything!!!
 
 # OUR IDEAS
-* Ask your TA to explain a concept--they may be more technically advanced than the teacher. 
+* Ask your TA to explain a concept--they may be more technically advanced than the teacher.
 * TAs can help people who get lost
 * Encourage your TAs to jump in to help explain something if you're struggling
-* TAs can ask the first question to encourage students to speak up. 
-* Co-teaching is also an option if you feel like you can tag-team. There doesn't necessarily need to be a hierarchy. 
-* TAs: Notice if the teacher is getting tired toward the end of the day. It can be tiring to stand up there talking all day and it might be nice to ask if you can cover it if you can. 
-* If someone falls behind, is struggling and there needs to be a lot of talking, the TA can take them out of the room to do some 1-on-1, as long as there is still another TA in the room. 
+* TAs can ask the first question to encourage students to speak up.
+* Co-teaching is also an option if you feel like you can tag-team. There doesn't necessarily need to be a hierarchy.
+* TAs: Notice if the teacher is getting tired toward the end of the day. It can be tiring to stand up there talking all day and it might be nice to ask if you can cover it if you can.
+* If someone falls behind, is struggling and there needs to be a lot of talking, the TA can take them out of the room to do some 1-on-1, as long as there is still another TA in the room.
 
 # DISCUSSION
 How can you tell if they understand the words you're saying?
@@ -147,11 +148,11 @@ How can you tell if they understand the words you're saying?
 * Don't ask yes/no questions ... they are too easy.
 * Pay attention to body language
 * Ask "How would you do \{this\}?" or "If I wanted to do \{that}, what would I do?"
-* Generally, people ask questions when they are understanding material. If it is not challenging enough or is over their heads, they don't. Make sure they are asking questions. If not, encourage them to. 
+* Generally, people ask questions when they are understanding material. If it is not challenging enough or is over their heads, they don't. Make sure they are asking questions. If not, encourage them to.
 
 ### Calling on people
 * Don't be a jerk
-* Call on people to make the class more interactive and engaging, rather than a lecture. 
+* Call on people to make the class more interactive and engaging, rather than a lecture.
 * more ideas???
 
 # SOURCES

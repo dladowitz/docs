@@ -9,7 +9,7 @@
 * [Foundational Skills](foundational_skills)
 * [Ruby for Beginners](ruby_for_beginners)
 * [Ruby for Programmers](ruby_for_programmers)
-* [REST](rest)
+* [REST](http://curriculum.railsbridge.org/workshop/diagrams)
 * [Suggestotron Curriculum](/curriculum)
 
 ## Workshop Prep:
