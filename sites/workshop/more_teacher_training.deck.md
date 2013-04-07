@@ -155,7 +155,12 @@ How can you tell if they understand the words you're saying?
 * Call on people to make the class more interactive and engaging, rather than a lecture.
 * more ideas???
 
-# SOURCES
-* HOWTO Encourage Women in Linux http://tldp.org/HOWTO/Encourage-Women-Linux-HOWTO/x168.html#AEN243
+# RESOURCES
+* Slide decks for:
+* Suggestotron Curriculum [Lets do a run through now]
+* Foundational Computer Concepts
+* Ruby for Beginners
+* Ruby for Programmers
+* [http://curriculum.railsbridge.org/workshop](http://curriculum.railsbridge.org/workshop/)
 
 

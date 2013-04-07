@@ -1,15 +1,17 @@
 <!SLIDE bullets incremental>
-# Welcome to RailsBridge #38
+# Welcome to RailsBridge
+* This is the 40th workshop (or something)
 * OMG
 
 <!SLIDE bullets>
 # Thank you to our lovely sponsors
-![EngineYard](img/ey_logo_rgb.png)
+![Tapjoy](img/tapjoy.jpg)
+
+* Tapjoy is awesome (yes, I get paid to say that)
 
 <!SLIDE bullets>
-# Thank you to our lovely sponsors
-![Blazing Cloud](img/blazingcloud.png)
-![NIRD](img/nird.png)
+# Thank you to our partners
+![Latino Startup Alliance](img/lsa.gif)
 
 <!SLIDE bullets>
 # And thank you to Nick and Flannery!
@@ -18,28 +20,33 @@
 
 <!SLIDE bullets>
 # Schedule
-* 9:00-9:30 Introductions & Coffee
+* 9:00-9:30 Teachers and Students arrive
 * 9:30-10:00 Workshop Intro
-* 10:00-10:50 Session 1
-* 11:00-12:00 Session 2
-* 12:00-1:00 Lunch
-* 1:00-2:15 Session 3
-* 2:30-3:30 Session 4
-* 3:30-4:00 Wrap up & final questions
-* 4:00 Grab a drink (or 2 or 3?) at ?
+* 10:00-12:30 Morning Session
+* 12:30-1:30 Lunch
+* 1:30-2:50 Session 3
+* 2:50-3:00 Break
+* 3:00-4:20 Session 4
+* 4:30-4:50 Student and Volunteer Retrospective (Put the Keg to use)
+* 4:50-5:10 Help us clean up or Stephanie and Bob will kill me
+* 5:15 Grab a drink (or 2 or 3?) at Murphys
 
 <!SLIDE bullets>
-# Who is here?
-![Student Survey](img/student_survey.png)
+# If you need help find Adam
+
+![Adam](img/adam.jpg)
 
 <!SLIDE bullets>
-# Who is here?
-![Student Experience](img/student_experience.png)
+# Or Jackie
 
+![Jackie](img/jackie.jpg)
 
 <!SLIDE bullets>
-# 3 Groups
-* one will go slowly through programming concepts
-* two will focus on what is different about Ruby and Rails
+# Or Amir
 
+![Amir](img/amir.jpg)
 
+<!SLIDE bullets>
+# And just to be fair
+
+![david](img/david.jpg)

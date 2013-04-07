@@ -1,22 +1,21 @@
 <!SLIDE bullets incremental>
-# You have completed RailsBridge #38!
+# You have completed RailsBridge #40 (we think)
 * Congratulations!
 
+<!SLIDE bullets>
+# What worked well for people?
+* For volunteers?
+* For organizers?
+* For students?
 
 <!SLIDE bullets>
-# Please thank our awesome sponsor!
-![EngineYard](img/ey_logo_rgb.png)
+# What could we improve?
+* For volunteers?
+* For organizers?
+* For students?
 
 <!SLIDE bullets>
-# Celebrate!
-* After-party 
-* Conference Party
 
-<!SLIDE bullets>
-# What did we learn?
-* Ruby as a language
-* Rails as a framework
-* MVC design pattern
 
 <!SLIDE bullets>
 # Resources:
@@ -31,5 +30,29 @@
 * Want to organize a workshop? join railsbridge-workshops@googlegroups.com
 
 <!SLIDE bullets>
-# RIGHT NOW
-* TAKE THIS SURVEY RIGHT NOW: http://bit.ly/workshop_survey 
+# Thanks for Tapjoy and Claire for sponsoring.
+* Claire has zero embarrasing photos on Facebook (I looked)
+
+![Tapjoy](img/tapjoy2.jpg)
+
+<!SLIDE bullets>
+# Super big thanks to
+
+|Jackie | Amir | Adam |
+|----|-----|----|
+| <img src="img/jackie.jpg" alt="Ruby" width="300"> | <img src="img/amir.jpg" alt="Rails" width="300"> | <img src="img/adam.jpg" alt="Rails" width="300"> |
+
+
+For the last 8 weeks of planning
+
+<!SLIDE bullets>
+# Also thanks to
+* Stephanie and Bob and Lillie if you're here
+
+<!SLIDE bullets>
+# Celebrate!
+* After-party at Murphy's pub
+* Google says its, like, 492 ft away.
+* Google also says it's 2 mins by foot.
+* Google also says it's 43 seconds by car.
+* And if you ask Google how long the bus will take....it tells you to walk (for real)
