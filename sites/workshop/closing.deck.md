@@ -47,7 +47,12 @@ For the last 8 weeks of planning
 
 <!SLIDE bullets>
 # Also thanks to
-* Stephanie and Bob and Lillie if you're here
+|Stephanie | Chris | Lillie |
+|----|-----|----|
+| <img src="img/stephanie.jpg" alt="Ruby" width="300"> | <img src="img/chris.jpg" alt="Rails" width="300"> | <img src="img/lillie2.jpg" alt="Rails" width="300">
+
+
+* Stephanie, Lillie and Chris
 
 <!SLIDE bullets>
 # Celebrate!
