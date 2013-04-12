@@ -38,9 +38,9 @@
 <!SLIDE bullets>
 # Super big thanks to
 
-|Jackie | Amir | Adam |
-|----|-----|----|
-| <img src="img/jackie.jpg" alt="Ruby" width="300"> | <img src="img/amir.jpg" alt="Rails" width="300"> | <img src="img/adam.jpg" alt="Rails" width="300"> |
+|Jackie | Amir |
+|----|-----|
+| <img src="img/jackie.jpg" alt="Ruby" width="300"> | <img src="img/amir.jpg" alt="Rails" width="300">
 
 
 For the last 8 weeks of planning

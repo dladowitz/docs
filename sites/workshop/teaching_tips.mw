@@ -1,11 +1,6 @@
-== General Teaching Advice ==
-
-When planning, don't think about what ''you're'' going to do. Think about what ''they're'' going to do.
 
 
-== Metaphors and Stories for Teaching Programming: ==
-
-A program is like a recipe. There's two parts: a list of ingredients and a list of instructions. Think of code as the instructions and data as the ingredients. 
+A program is like a recipe. There's two parts: a list of ingredients and a list of instructions. Think of code as the instructions and data as the ingredients.
 
 Also, to extend the metaphor, think about doubling a recipe: the instructions don't change even though the data are different this time.
 

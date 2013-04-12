@@ -32,12 +32,7 @@
 * 5:15 Grab a drink (or 2 or 3?) at Murphys
 
 <!SLIDE bullets>
-# If you need help find Adam
-
-![Adam](img/adam.jpg)
-
-<!SLIDE bullets>
-# Or Jackie
+# If you need help find Jackie
 
 ![Jackie](img/jackie.jpg)
 
